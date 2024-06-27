@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Diogo!
 
-<!--
-**di-mendes/di-mendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭Aspiring Bioinformatician<br/>
+👨‍🎓Bachelors in Biomedical Sciences and Masters in Genomic Medicine<br/>
+⚙️Currently building my projects portofolio!<br/>
 
-Here are some ideas to get you started:
+# 💻 Tech Stack
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📊 GitHub Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=di-mendes&show_icons=true&theme=radical&hiderank=false)](https://github.com/anuraghazra/github-readme-stats)
