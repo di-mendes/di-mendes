@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Diogo!
 
-🔭Aspiring Bioinformatician<br/>
-👨‍🎓Bachelors in Biomedical Sciences and Masters in Genomic Medicine<br/>
+Bioinformatics & Genomics | MSc Genomic Medicine <br/>
 ⚙️Currently building my projects portofolio!<br/>
 
 # 💻 Tech Stack
