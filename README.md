@@ -2,6 +2,14 @@
 
 Bioinformatics & Genomics | MSc Genomic Medicine <br/>
 ⚙️Currently building my projects portofolio!<br/>
+Interests <br/>
+
+🧬 Genomics <br/>
+🧫 Bioinformatics <br/>
+🧪 NGS Data Analysis <br/>
+🧬 Stem Cell Biology <br/>
+🧬 Telomere Biology <br/>
+💻 Computational Biology <br/>
 
 # 💻 Tech Stack
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
