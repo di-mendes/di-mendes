@@ -3,7 +3,6 @@
 Bioinformatics & Genomics | MSc Genomic Medicine <br/>
 ⚙️Currently building my projects portofolio!<br/>
 Interests <br/>
-
 🧬 Genomics <br/>
 🧫 Bioinformatics <br/>
 🧪 NGS Data Analysis <br/>
